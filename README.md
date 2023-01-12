@@ -161,3 +161,7 @@ Emoji :
     <summary>Update from TawanXD</summary>
     <p>Me in other account</p>
 </details>
+<details>
+    <summary>Update from SuchanunSiri</summary>
+    <p>Still me in other account</p>
+</details>
